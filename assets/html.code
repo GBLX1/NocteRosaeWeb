@@ -1,0 +1,37 @@
+<html>
+	<head>
+    	<title>Nocte Rosae CC Guidelines & Setting Stuff</title>
+    	<link rel="icon" type="image/x-icon" href="assets/">
+    	<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<h1> It aint a pdf cuz pdf in html is evil </h1>
+		<div>
+			<img src="assets/bss1.png">
+			<img src="assets/ccg1.png">
+		</div>
+		<div>
+			<img src="assets/bss2.png">
+			<img src="assets/ccg2.png">
+		</div>
+		<div>
+			<img src="assets/bss3.png">
+			<img src="assets/blank.png">
+		</div>
+		<div>
+			<img src="assets/bss4.png">
+			<img src="assets/blank.png">
+		</div>
+		<div>
+			<img src="assets/bss5.png">
+			<img src="assets/blank.png">
+		</div>
+		
+		<h1> Session recaps </h1>
+		</hr>
+		<h2> S0 </h2>
+
+		</hr>
+		
+	</body>
+</html>
